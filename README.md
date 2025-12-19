@@ -5,9 +5,9 @@
 ### Web Developer | C Programmer | Creative Coder
 
 <p align="center">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_ID" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nishit doshi" /></a>
-<a href="mailto:your-email@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="nishit doshi" /></a>
-<a href="https://your-portfolio-link.com" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=html5&logoColor=white" alt="nishit doshi" /></a>
+<a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nishit doshi" /></a>
+<a href="mailto:nishit.g.doshi.cg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="nishit doshi" /></a>
+
 </p>
 
 <p align="center">
