@@ -2,19 +2,9 @@
 
 # :wave: Hi, I'm Nishit Doshi
 <p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?
-    font=Fira+Code&
-    size=24&
-    pause=1200&
-    color=38BDF8&
-    center=true&
-    vCenter=true&
-    width=550&
-    lines=Web+Developer;Crafting+Innovative+Solutions" 
-    alt="Typing Animation" 
-  />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Web+Developer;Crafting+Innovative+Solutions" alt="Typing Animation" />
 </p>
+
 
 ### Web Developer | C Programmer | Creative Coder
 
