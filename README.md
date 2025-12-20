@@ -2,8 +2,9 @@
 
 # :wave: Hi, I'm Nishit Doshi
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=550&lines=Web+Developer;Crafting+Innovative+Solutions" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" alt="Typing Animation" />
 </p>
+
 
 
 ### Web Developer | C Programmer | Creative Coder
@@ -11,11 +12,15 @@
 <p align="center">
 <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="blank"><img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="nishit doshi" /></a>
 <a href="mailto:nishit.g.doshi.cg@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="nishit doshi" /></a>
+<a href="https://www.youtube.com/@nishitdoshi2394" target="_blank">
+  <img src="https://img.shields.io/badge/YouTube-Nishit%20TechLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel" />
+</a>
+
 
 </p>
 
 <p align="center">
- :hammer_and_wrench: <b>Building:</b> QuiZora & PDF Vault &nbsp;|&nbsp; :round_pushpin: <b>Based in:</b> Kalol, Gujarat &nbsp;|&nbsp; :mortar_board: <b>Focus:</b> Web Dev & C
+ :hammer_and_wrench: <b>Building:</b> QuiZora & PDF Vault &nbsp;|&nbsp; :round_pushpin: <b>Based in:</b> Kalol, Gujarat &nbsp;|&nbsp; :mortar_board: <b>Focus:</b> Full Stack Development 
 </p>
 
 </div>
@@ -28,7 +33,7 @@ I am a **Developer** with a passion for building interactive tools and logical g
 
 - :telescope: **Current Focus:** Developing **QuiZora**, a daily coding quiz platform.
 - :zap: **Superpower:** Debugging complex C logic and pixel-perfect CSS.
-- :art: **Interests:** I love image manipulation/editing and creating multiplayer game logic (like my UNO project).
+- :art: **Interests:** Building interactive web apps using HTML, CSS & JavaScript.
 
 ---
 
