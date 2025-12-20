@@ -52,10 +52,10 @@ I am a **Developer** with a passion for building interactive tools and logical g
 <div align="center">
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 </a>
 
 </div>
@@ -64,19 +64,15 @@ I am a **Developer** with a passion for building interactive tools and logical g
 
 ## :star2: Top Projects
 
-### :brain: QuiZora (Daily Quiz App)
-*A platform for developers to test their coding skills daily.*
-- **Stack:** HTML, CSS, JavaScript, Database.
+### :brain: Weather WebApp (Weather forecasting app)
+*A platform for people to check weather anywhere anytime.*
+- **Stack:** HTML, CSS, JavaScript,  API.
 - **Goal:** To help coders keep their knowledge sharp with daily challenges.
 - :link: [View Repo](#) ### :file_folder: PDF Vault
 *A secure web platform for uploading, storing, and viewing PDF documents.*
-- **Stack:** Web Technologies, Backend API.
+- **Stack:** Web Technologies, Backend.
 - **Goal:** Create a personal, accessible library for digital documents.
-- :link: [View Repo](#) ### :black_joker: Multiplayer UNO
-*A real-time card game engine.*
-- **Stack:** C Logic / Web Sockets.
-- **Features:** Player naming, random card distribution, and real-time play.
-- :link: [View Repo](#) ---
+- :link: [View Repo](#) ### :black_joker:
 
 ## :rocket: Let's build something amazing together!
 
