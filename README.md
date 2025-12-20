@@ -25,7 +25,7 @@
 
 
 <p align="center">
- :hammer_and_wrench: <b>Building:</b> QuiZora & PDF Vault &nbsp;|&nbsp; :round_pushpin: <b>Based in:</b> Kalol, Gujarat &nbsp;|&nbsp; :mortar_board: <b>Focus:</b> Full Stack Development 
+ :hammer_and_wrench: |&nbsp; :round_pushpin: <b>Based in:</b> Kalol, Gujarat &nbsp;|&nbsp; :mortar_board: <b>Focus:</b> Full Stack Development 
 </p>
 
 </div>
@@ -36,7 +36,7 @@
 
 I am a **Developer** with a passion for building interactive tools and logical games. I specialize in the fundamentals of C coding and creating visual experiences with HTML/CSS.
 
-- :telescope: **Current Focus:** Developing **QuiZora**, a daily coding quiz platform.
+- :telescope: **Current Focus:** To increase programming and developing skills.
 - :zap: **Superpower:** Debugging complex C logic and pixel-perfect CSS.
 - :art: **Interests:** Building interactive web apps using HTML, CSS & JavaScript.
 
