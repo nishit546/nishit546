@@ -93,7 +93,7 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 - **Stack:** HTML, CSS, JavaScript  
 - **Features:** Card matching logic, turn-based play, dynamic UI  
 - **Goal:** Practice game logic, condition handling, and DOM manipulation  
-- 🔗 [View Repository]([https://github.com/nishit546/unoGame])
+- 🔗 [View Repository](https://github.com/nishit546/unoGame)
 
 
 ---
