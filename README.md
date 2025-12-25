@@ -61,18 +61,13 @@ I am a **Developer** with a passion for building interactive tools and logical g
 
 ---
 
-## :chart_with_upwards_trend: My GitHub Stats
+## 📊 My GitHub Stats
 
-<div align="center">
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<p align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-</a>
+</p>
 
-</div>
 
 ---
 
