@@ -78,7 +78,7 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ---
 
-### 📁 PDF Vault
+### 📁 PDF Vault(In Progress)
 *A secure platform for uploading, storing, and viewing PDF files.*
 
 - **Stack:** Web Technologies, Backend  
@@ -87,13 +87,13 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 
 ---
 
-### 🃏 UNO Game
+### 🃏 UNO Game(Made with Gemini)
 *A browser-based implementation of the classic UNO card game with interactive gameplay.*
 
 - **Stack:** HTML, CSS, JavaScript  
 - **Features:** Card matching logic, turn-based play, dynamic UI  
 - **Goal:** Practice game logic, condition handling, and DOM manipulation  
-- 🔗 [View Repository](#)
+- 🔗 [View Repository]([#](https://github.com/nishit546/unoGame))
 
 
 ---
