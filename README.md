@@ -57,24 +57,11 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 </p>
 
 ---
+## 📊 GitHub Language Stats
 
-## 📊 Language Usage
-
-### HTML
-![HTML](https://progress-bar.dev/30/?title=HTML&width=500&color=E34F26)
-
-### CSS
-![CSS](https://progress-bar.dev/25/?title=CSS&width=500&color=1572B6)
-
-### JavaScript
-![JavaScript](https://progress-bar.dev/25/?title=JavaScript&width=500&color=F7DF1E)
-
-### C
-![C](https://progress-bar.dev/15/?title=C&width=500&color=00599C)
-
-### Others
-![Others](https://progress-bar.dev/5/?title=Others&width=500&color=6c757d)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
 
 ---
 
