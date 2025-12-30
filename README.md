@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" alt="Typing Animation" />
 </p>
 
-### Web Developer | C Programmer | Creative Coder
+### Web Developer | Programmer | Creative Coder
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="_blank">
