@@ -57,11 +57,7 @@ I enjoy working close to fundamentals — from **C programming** to **clean HTML
 </p>
 
 ---
-## 📊 GitHub Language Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+https://github.com/nishit546/nishit546/blob/output/github-contribution-grid-snake.svg
 
 ---
 
