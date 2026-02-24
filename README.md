@@ -1,101 +1,116 @@
-# 👋 Hi, I'm Nishit Doshi
+# 👋 Hello there! I'm Nishit Doshi
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1200&color=38BDF8&center=true&vCenter=true&width=800&lines=Web+Developer;Crafting+Innovative+Solutions;Enthusiast+Programmer;Turning+Logic+into+Impactful+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Crafting+Innovative+Solutions;Passionate+Programmer;Turning+Logic+Into+Impactful+Code" alt="Typing Animation" />
 </p>
-
-### Web Developer | Programmer | Creative Coder
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nishit.g.doshi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@nishitdoshi2394" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Nishit%20TechLab-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
+<br />
+
+## 👨‍💻 About Me
+
+Welcome to my digital workspace! I'm a dedicated **Developer** passionate about building interactive, logic-driven applications and crafting exceptional user experiences. I thrive on problem-solving—whether it's debugging complex C logic or creating pixel-perfect CSS layouts.
+
+- 🔭 **Currently Focusing On:** Elevating my expertise in full-stack development and modern web architectures.
+- ⚡ **Superpowers:** Debugging intricate backend logic & designing responsive, interactive frontend interfaces.
+- 🌱 **Learning:** Always seeking new technologies to expand my tech stack and toolkit.
+- 📍 **Location:** Kalol, Gujarat, India
+
+<br />
+
+## 🛠️ My Tech Arsenal
+
+### **Languages & Core Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C Programming" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+</p>
+
+### **Libraries & Frameworks**
+<p align="left">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+</p>
+
+### **Tools & Platforms**
+<p align="left">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+</p>
+
+<br />
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3>☁️ <a href="#">Weather WebApp</a></h3>
+      <p>A sleek, real-time weather forecasting application designed for fast and accurate climate access worldwide.</p>
+      <p><b>Stack:</b> HTML, CSS, JavaScript, Weather API</p>
+    </td>
+    <td width="50%">
+      <h3>📁 <a href="#">PDF Vault (WIP)</a></h3>
+      <p>A secure, personal digital document library platform for seamlessly uploading, storing, and viewing PDF files.</p>
+      <p><b>Stack:</b> Advanced Web Technologies, Backend Architecture</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3>🃏 <a href="https://github.com/nishit546/unoGame">UNO Game (Made with Gemini)</a></h3>
+      <p>A browser-based implementation of the classic UNO card game featuring interactive turn-based play, dynamic UI, and advanced DOM manipulation.</p>
+      <p><b>Stack:</b> HTML, CSS, JavaScript</p>
+    </td>
+    <td width="50%">
+      <h3>🍽️ <a href="#">Meal Explorer App</a></h3>
+      <p>A premium recipe discovery app fetching data from TheMealDB. Features custom animations, routing, and persistent storage.</p>
+      <p><b>Stack:</b> React, React Router, Tailwind CSS</p>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+## 📊 GitHub Stats
+
 <p align="center">
-  🔧 <b>Skills:</b> Web Development &nbsp;|&nbsp;
-  📍 <b>Location:</b> Kalol, Gujarat &nbsp;|&nbsp;
-  🎓 <b>Focus:</b> Full Stack Development
+  <!-- Ensure you replace 'nishit546' with your exact GitHub username if it's different! -->
+  <img src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Nishit's GitHub Stats" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=tokyonight&hide_border=true&background=0D1117" alt="Nishit's GitHub Streak" width="48%" />
 </p>
 
----
+<br />
 
-## 📘 About Me
+## 🌐 Let's Connect & Collaborate!
 
-I am a **developer** passionate about building interactive tools and logical applications.  
-I enjoy working close to fundamentals — from **C programming** to **clean HTML/CSS layouts**.
-
-- 🔭 **Current Focus:** Improving programming and development skills  
-- ⚡ **Strength:** Debugging C logic & pixel-perfect CSS  
-- 🎨 **Interests:** Interactive web apps using HTML, CSS & JavaScript  
-
----
-
-## 🛠️ My Tech Toolbox
-
-### Languages & Frontend
-<p>
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-</p>
-
-### Tools & Backend
-<p>
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-  <img src="https://img.shields.io/badge/Database-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
-
----
-<svg viewBox="-16 -32 48 96" width="48" height="96" xmlns="http://www.w3.org/2000/svg"><desc>Generated with https://github.com/Platane/snk</desc><style>@keyframes s0{0%{transform:translate(0,-16px)}}@keyframes s1{0%{transform:translate(16px,-16px)}}@keyframes s2{0%{transform:translate(32px,-16px)}}@keyframes s3{0%{transform:translate(48px,-16px)}}:root{--cb:#1b1f230a;--cs:purple;--ce:#ebedf0;--c0:#ebedf0;--c1:#9be9a8;--c2:#40c463;--c3:#30a14e;--c4:#216e39}@media (prefers-color-scheme:dark){:root{--cb:#1b1f230a;--cs:purple;--ce:#161b22;--c1:#01311f;--c2:#034525;--c3:#0f6d31;--c4:#00c647}}.c{shape-rendering:geometricPrecision;fill:var(--ce);stroke-width:1px;stroke:var(--cb);animation:none 100ms linear infinite}.s,.u{animation:none linear 100ms infinite}.u{transform-origin:0 0;transform:scale(0,1)}.s{shape-rendering:geometricPrecision;fill:var(--cs)}.s.s0{transform:translate(0,-16px);animation-name:s0}.s.s1{transform:translate(16px,-16px);animation-name:s1}.s.s2{transform:translate(32px,-16px);animation-name:s2}.s.s3{transform:translate(48px,-16px);animation-name:s3}</style><rect class="s s0" x="0.8" y="0.8" width="14.4" height="14.4" rx="4.5" ry="4.5"/><rect class="s s1" x="1.8" y="1.8" width="12.3" height="12.3" rx="4.1" ry="4.1"/><rect class="s s2" x="2.6" y="2.6" width="10.8" height="10.8" rx="3.6" ry="3.6"/><rect class="s s3" x="3.0" y="3.0" width="9.9" height="9.9" rx="3.3" ry="3.3"/></svg>
-
----
-
-## ⭐ Top Projects
-
-### 🧠 Weather WebApp
-*A weather forecasting app to check real-time weather anywhere.*
-
-- **Stack:** HTML, CSS, JavaScript, Weather API  
-- **Goal:** Simple and fast weather access  
-- 🔗 [View Repository](#)
-
----
-
-### 📁 PDF Vault(In Progress)
-*A secure platform for uploading, storing, and viewing PDF files.*
-
-- **Stack:** Web Technologies, Backend  
-- **Goal:** Personal digital document library  
-- 🔗 [View Repository](#)
-
----
-
-### 🃏 UNO Game(Made with Gemini)
-*A browser-based implementation of the classic UNO card game with interactive gameplay.*
-
-- **Stack:** HTML, CSS, JavaScript  
-- **Features:** Card matching logic, turn-based play, dynamic UI  
-- **Goal:** Practice game logic, condition handling, and DOM manipulation  
-- 🔗 [View Repository](https://github.com/nishit546/unoGame)
-
-
----
-
-## 🚀 Let's Build Something Amazing Together!
+I'm always open to discussing web development, creative coding, or exciting new project opportunities. Feel free to reach out to me!
 
 <p align="center">
   <a href="mailto:nishit.g.doshi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Contact_Me-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    <img src="https://img.shields.io/badge/Let's_Talk!-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
   </a>
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=8B5CF6&height=100&section=footer" />
 </p>
