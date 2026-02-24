@@ -50,10 +50,6 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 ## 📊 Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&theme=radical&hide_border=true" alt="Nishit's GitHub Stats" />
-</div>
-<br />
-<div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=radical&hide_border=true" alt="Nishit's GitHub Streak" />
 </div>
 <br />
