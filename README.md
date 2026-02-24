@@ -39,7 +39,7 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="Nishit's Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Nishit's Trophies" />
   </a>
 </p>
 
@@ -58,30 +58,25 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 ## 📊 Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="Nishit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&theme=radical&hide_border=true" alt="Nishit's GitHub Stats" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=tokyonight_purple&hide_border=true&background=0D1117" alt="Nishit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=radical&hide_border=true" alt="Nishit's GitHub Streak" />
 </div>
 <br />
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=tokyonight_purple&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-## 🐍 GitHub Contribution Snake
+## 📈 GitHub Activity Graph
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg">
-  </picture>
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&theme=react-dark&hide_border=true&area=true" alt="Nishit's Activity Graph" />
 </p>
 
-> **Note:** For the snake animation to work, you will need to set up a quick GitHub Action in your profile repository. See instructions below!
 
 ---
 
