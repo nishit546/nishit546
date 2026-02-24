@@ -1,8 +1,6 @@
 # 👋 Hello there! I'm Nishit Doshi
 
-<p align="center">
-  <img src="https://profile-counter.glitch.me/nishit546/fit.svg" alt="Profile Views" />
-</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&pause=1200&color=8B5CF6&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Crafting+Innovative+Solutions;Passionate+Programmer;Turning+Logic+Into+Impactful+Code" alt="Typing Animation" />
