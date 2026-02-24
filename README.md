@@ -53,9 +53,6 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=radical&hide_border=true" alt="Nishit's GitHub Streak" />
 </div>
 <br />
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</div>
 
 ---
 
