@@ -35,13 +35,7 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 
 ---
 
-## 🏆 GitHub Trophies
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Nishit's Trophies" />
-  </a>
-</p>
 
 ---
 
