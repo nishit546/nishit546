@@ -56,6 +56,11 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 
 ---
 
+## LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/Nishit1709?theme=dark&font=Baloo&ext=contest)
+
+---
 ## 📈 GitHub Activity Graph
 
 <p align="center">
