@@ -39,28 +39,17 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 
 ### 🖥️ Frontend
 <p>
-  <img src="https://img.shields.io/badge/html5-%2322C55E.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%23A855F7.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/javascript-%2322C55E.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/react-%23A855F7.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
-  <img src="https://img.shields.io/badge/redux-%23A855F7.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/tailwindcss-%2322C55E.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark" alt="Frontend" />
 </p>
 
 ### ⚙️ Backend & Database
 <p>
-  <img src="https://img.shields.io/badge/node.js-%2322C55E.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-  <img src="https://img.shields.io/badge/express.js-%23A855F7.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
-  <img src="https://img.shields.io/badge/c-%23EF4444.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  <img src="https://img.shields.io/badge/mysql-%2322C55E.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,c,mysql&theme=dark" alt="Backend & Database" />
 </p>
 
 ### 🧰 Version Control & Tools
 <p>
-  <img src="https://img.shields.io/badge/git-%23EF4444.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/github-%23A855F7.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-%2322C55E.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-%23A855F7.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
 </p>
 
 ---
