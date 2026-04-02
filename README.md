@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:A855F7,100:EF4444&height=200&section=header&text=Nishit%20Doshi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Code%20Craftsman&descSize=16&descAlignY=55&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:A855F7,100:EF4444&height=200&section=header&text=Nishit%20Doshi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20Student%20%7C%20Co-Founder%2C%20COS%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&animation=fadeIn" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Full-Stack+Web+Developer;Crafting+Innovative+Solutions;Passionate+Programmer;Turning+Logic+Into+Impactful+Code" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Building+COS+%E2%80%94+Cognitive+Operating+System;Full-Stack+Developer+%7C+System+Thinker;Shipping+Products%2C+Not+Just+Code;Engineering+the+Future+of+Desktop+UX" alt="Typing Animation" />
 </p>
 
 <p align="center">
@@ -24,12 +24,14 @@
 
 ## 👨‍💻 About Me
 
-Welcome to my digital workspace! I'm a dedicated **Developer** passionate about building interactive, logic-driven applications and crafting exceptional user experiences. I thrive on problem-solving—whether it's debugging complex C logic or creating pixel-perfect CSS layouts.
+I'm a **Computer Science Engineering** student and **Co-Founder of [COS (Cognitive Operating System)](https://github.com/nishit546)** — an intelligent desktop interface rethinking how humans interact with their machines. I build full-stack applications with a bias toward shipping real products, not side projects that collect dust.
 
-- 🔭 **Currently Focusing On:** Elevating my expertise in full-stack development.
-- ⚡ **Superpowers:** Debugging intricate backend logic & designing responsive UI/UX.
-- 🌱 **Learning:** Expanding my toolkit with modern web architectures.
-- 📍 **Location:** Kalol, Gujarat, India
+At COS, we're engineering an AI-powered desktop experience focused on modern UI/UX, real-time responsiveness, and meaningful productivity — not another chatbot wrapper.
+
+- 🧠 **Building:** COS — Cognitive Operating System
+- 🔧 **Strengths:** Full-stack development, system-level UI design, rapid prototyping
+- 🎯 **Focus:** Bridging the gap between AI capabilities and intuitive desktop UX
+- 📍 **Based in:** Gujarat, India
 
 ---
 
@@ -99,29 +101,48 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 
 ## 🚀 Featured Projects
 
+### 🧠 COS — Cognitive Operating System &nbsp; `flagship`
+
+> An intelligent desktop interface designed to rethink how users interact with their system.
+
 <table>
   <tr>
-    <td width="50%">
-      <h3>☁️ <a href="#">Weather WebApp</a></h3>
-      <p>A sleek, real-time weather forecasting application designed for fast and accurate climate access worldwide.</p>
-      <p><b>Stack:</b> HTML, CSS, JavaScript, Weather API</p>
-    </td>
-    <td width="50%">
-      <h3>📁 <a href="#">PDF Vault (WIP)</a></h3>
-      <p>A secure, personal digital document library platform for seamlessly uploading, storing, and viewing PDF files.</p>
-      <p><b>Stack:</b> Web Technologies, Backend Architecture</p>
+    <td>
+      <b>What it is:</b> A next-generation desktop environment that replaces traditional OS interactions with an AI-driven, context-aware interface — built for speed, clarity, and flow.
+      <br /><br />
+      <b>Key Features:</b>
+      <ul>
+        <li>🤖 AI-powered command and interaction layer</li>
+        <li>🎨 Glassmorphic, Three.js-powered 3D interface</li>
+        <li>⚡ Real-time responsiveness with zero-lag feedback</li>
+        <li>📊 Intelligent workspace management and productivity tools</li>
+        <li>🔮 Designed around the future of human-computer interaction</li>
+      </ul>
+      <b>Stack:</b> React · Three.js · Tailwind CSS · Node.js · Express · AI/ML APIs
+      <br /><br />
+      <i>This isn't a concept — it's actively being built and shipped.</i>
     </td>
   </tr>
+</table>
+
+<br />
+
+<table>
   <tr>
-    <td width="50%">
+    <td width="33%">
+      <h3>☁️ <a href="#">Weather WebApp</a></h3>
+      <p>Real-time weather forecasting with fast, accurate global climate data access.</p>
+      <p><b>Stack:</b> HTML, CSS, JS, Weather API</p>
+    </td>
+    <td width="33%">
       <h3>🃏 <a href="https://github.com/nishit546/unoGame">UNO Game</a></h3>
-      <p>A browser-based implementation of the classic UNO card game featuring interactive turn-based play, dynamic UI, and advanced DOM manipulation.</p>
+      <p>Browser-based UNO with interactive turn-based play, dynamic UI, and advanced DOM manipulation.</p>
       <p><b>Stack:</b> HTML, CSS, JavaScript</p>
     </td>
-    <td width="50%">
-      <h3>🍽️ <a href="#">Meal Explorer App</a></h3>
-      <p>A premium recipe discovery app fetching data from TheMealDB. Features custom animations, routing, and persistent storage.</p>
-      <p><b>Stack:</b> React, React Router, Tailwind CSS</p>
+    <td width="33%">
+      <h3>🍽️ <a href="#">Meal Explorer</a></h3>
+      <p>Recipe discovery app with TheMealDB integration, custom animations, and persistent storage.</p>
+      <p><b>Stack:</b> React, React Router, Tailwind</p>
     </td>
   </tr>
 </table>
