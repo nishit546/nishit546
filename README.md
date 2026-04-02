@@ -35,21 +35,11 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 
 ---
 
-## 🛠️ My Tech Arsenal
+## ⚙️ Tech Arsenal
 
-### 🖥️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark" alt="Frontend" />
-</p>
-
-### ⚙️ Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,c,mysql&theme=dark" alt="Backend & Database" />
-</p>
-
-### 🧰 Version Control & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" alt="Tools" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,python,fastapi,c,cpp,cs,mysql,mongodb,git,github,vscode,postman,unity&theme=dark" alt="Tech Arsenal" />
+  <img src="https://ollama.com/public/icon-64x64.png" height="48" alt="Ollama" />
 </p>
 
 ---
@@ -109,7 +99,7 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
       </ul>
       <b>Stack:</b><br />
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,nodejs,express,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
+        <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,nodejs,express,python,fastapi&theme=dark" height="36" alt="Tech Stack" />
         <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
       </p>
       <br /><br />
@@ -136,8 +126,7 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
       </ul>
       <b>Stack:</b><br />
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
-        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="36" alt="Tech Stack" />
       </p>
       <br /><br />
       <i>Built to do one thing well — give you the weather, fast.</i>
@@ -164,8 +153,7 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
       </ul>
       <b>Stack:</b><br />
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
-        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+        <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="36" alt="Tech Stack" />
       </p>
       <br /><br />
       <i>No React, no libraries — just raw JS proving that fundamentals matter.</i>
@@ -193,8 +181,7 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
       </ul>
       <b>Stack:</b><br />
       <p align="left">
-        <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
-        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+        <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" height="36" alt="Tech Stack" />
       </p>
       <br /><br />
       <i>Not just an API wrapper — a complete product with routing, state, and polish.</i>
