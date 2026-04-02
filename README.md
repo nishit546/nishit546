@@ -125,24 +125,74 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
   </tr>
 </table>
 
-<br />
+
+### ☁️ Weather WebApp
+
+> A fast, minimal weather tool that delivers real-time climate data for any location worldwide.
 
 <table>
   <tr>
-    <td width="33%">
-      <h3>☁️ <a href="#">Weather WebApp</a></h3>
-      <p>Real-time weather forecasting with fast, accurate global climate data access.</p>
-      <p><b>Stack:</b> HTML, CSS, JS, Weather API</p>
+    <td>
+      <b>What it is:</b> A frontend weather application that fetches live data from a public weather API and presents it in a clean, responsive layout — no clutter, no unnecessary features.
+      <br /><br />
+      <b>Key Features:</b>
+      <ul>
+        <li>🌍 Global city search with instant weather results</li>
+        <li>📡 Live API integration for temperature, humidity, and conditions</li>
+        <li>📱 Fully responsive — works on mobile and desktop</li>
+      </ul>
+      <b>Stack:</b> HTML · CSS · JavaScript · OpenWeather API
+      <br /><br />
+      <i>Built to do one thing well — give you the weather, fast.</i>
     </td>
-    <td width="33%">
-      <h3>🃏 <a href="https://github.com/nishit546/unoGame">UNO Game</a></h3>
-      <p>Browser-based UNO with interactive turn-based play, dynamic UI, and advanced DOM manipulation.</p>
-      <p><b>Stack:</b> HTML, CSS, JavaScript</p>
+  </tr>
+</table>
+
+<br />
+
+### 🃏 [UNO Game](https://github.com/nishit546/unoGame)
+
+> A browser-based recreation of the classic UNO card game, built entirely with vanilla JavaScript.
+
+<table>
+  <tr>
+    <td>
+      <b>What it is:</b> A fully playable UNO card game running in the browser — featuring turn-based logic, card validation rules, and dynamic UI updates without any framework.
+      <br /><br />
+      <b>Key Features:</b>
+      <ul>
+        <li>🎴 Complete UNO rule engine — draw, skip, reverse, wild cards</li>
+        <li>🔄 Turn-based state management with pure DOM manipulation</li>
+        <li>🧩 Dynamic card rendering and real-time UI feedback</li>
+      </ul>
+      <b>Stack:</b> HTML · CSS · JavaScript
+      <br /><br />
+      <i>No React, no libraries — just raw JS proving that fundamentals matter.</i>
     </td>
-    <td width="33%">
-      <h3>🍽️ <a href="#">Meal Explorer</a></h3>
-      <p>Recipe discovery app with TheMealDB integration, custom animations, and persistent storage.</p>
-      <p><b>Stack:</b> React, React Router, Tailwind</p>
+  </tr>
+</table>
+
+<br />
+
+### 🍽️ Meal Explorer
+
+> A recipe discovery app that turns a public API into a polished, browsable food experience.
+
+<table>
+  <tr>
+    <td>
+      <b>What it is:</b> A React-based application that pulls recipe data from TheMealDB, presenting it through a structured UI with search, filtering, and detailed recipe pages.
+      <br /><br />
+      <b>Key Features:</b>
+      <ul>
+        <li>🔍 Search and filter recipes by name, category, or region</li>
+        <li>📄 Dedicated recipe pages with ingredients, instructions, and media</li>
+        <li>💾 Persistent favorites using local storage</li>
+        <li>✨ Custom page transitions and loading animations</li>
+      </ul>
+      <b>Stack:</b> React · React Router · Tailwind CSS · TheMealDB API
+      <br /><br />
+      <i>Not just an API wrapper — a complete product with routing, state, and polish.</i>
     </td>
   </tr>
 </table>
