@@ -8,15 +8,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-8B5CF6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:nishit.g.doshi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    <img src="https://img.shields.io/badge/Gmail-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.youtube.com/@nishitdoshi2394" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-8B5CF6?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
 </p>
 
@@ -39,10 +39,30 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 
 ## 🛠️ My Tech Arsenal
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,html,css,js,react,redux,tailwind,express,nodejs,mysql,git,github,vscode,postman&perline=7" alt="Tech Stack Animations" />
-  </a>
+### 🖥️ Frontend
+<p>
+  <img src="https://img.shields.io/badge/html5-%238B5CF6.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%238B5CF6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/javascript-%238B5CF6.svg?style=for-the-badge&logo=javascript&logoColor=white" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/react-%238B5CF6.svg?style=for-the-badge&logo=react&logoColor=white" alt="React" />
+  <img src="https://img.shields.io/badge/redux-%238B5CF6.svg?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+  <img src="https://img.shields.io/badge/tailwindcss-%238B5CF6.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+</p>
+
+### ⚙️ Backend & Database
+<p>
+  <img src="https://img.shields.io/badge/node.js-%238B5CF6.svg?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+  <img src="https://img.shields.io/badge/express.js-%238B5CF6.svg?style=for-the-badge&logo=express&logoColor=white" alt="Express.js" />
+  <img src="https://img.shields.io/badge/c-%238B5CF6.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/mysql-%238B5CF6.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+</p>
+
+### 🛠️ Version Control & Tools
+<p>
+  <img src="https://img.shields.io/badge/git-%238B5CF6.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/github-%238B5CF6.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-%238B5CF6.svg?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code" />
+  <img src="https://img.shields.io/badge/Postman-%238B5CF6.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
 </p>
 
 ---
@@ -50,7 +70,7 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 ## 📊 Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=radical&hide_border=true" alt="Nishit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=dark&hide_border=true&ring=8B5CF6&fire=8B5CF6&currStreakNum=8B5CF6" alt="Nishit's GitHub Streak" />
 </div>
 <br />
 
@@ -61,14 +81,20 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
   <img src="https://leetcard.jacoblin.cool/Nishit1709?theme=dark&font=Baloo&ext=contest" />
 </p>
 
-
 ---
-
 
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&theme=react-dark&hide_border=true&area=true" alt="Nishit's Activity Graph" />
+   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&bg_color=0D1117&color=8B5CF6&line=8B5CF6&point=8B5CF6&area_color=8B5CF6&area=true&hide_border=true" alt="Nishit's Activity Graph" />
+</p>
+
+---
+
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-snake-dark.svg" alt="Contribution Snake" />
 </p>
 
 
@@ -109,7 +135,7 @@ Welcome to my digital workspace! I'm a dedicated **Developer** passionate about 
 
 <p align="center">
   <a href="mailto:nishit.g.doshi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk!-Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
+    <img src="https://img.shields.io/badge/Let's_Talk!-Email_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" />
   </a>
 </p>
 
