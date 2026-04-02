@@ -108,7 +108,10 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
         <li>🔮 Designed around the future of human-computer interaction</li>
       </ul>
       <b>Stack:</b><br />
-      <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,nodejs,express&theme=dark" height="36" alt="Tech Stack" />
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=react,threejs,tailwind,nodejs,express,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
+        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+      </p>
       <br /><br />
       <i>This isn't a concept — it's actively being built and shipped.</i>
     </td>
@@ -132,7 +135,10 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
         <li>📱 Fully responsive — works on mobile and desktop</li>
       </ul>
       <b>Stack:</b><br />
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="36" alt="Tech Stack" />
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
+        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+      </p>
       <br /><br />
       <i>Built to do one thing well — give you the weather, fast.</i>
     </td>
@@ -157,7 +163,10 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
         <li>🧩 Dynamic card rendering and real-time UI feedback</li>
       </ul>
       <b>Stack:</b><br />
-      <img src="https://skillicons.dev/icons?i=html,css,js&theme=dark" height="36" alt="Tech Stack" />
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=html,css,js,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
+        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+      </p>
       <br /><br />
       <i>No React, no libraries — just raw JS proving that fundamentals matter.</i>
     </td>
@@ -183,7 +192,10 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
         <li>✨ Custom page transitions and loading animations</li>
       </ul>
       <b>Stack:</b><br />
-      <img src="https://skillicons.dev/icons?i=react,tailwind&theme=dark" height="36" alt="Tech Stack" />
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=react,tailwind,cpp,cs,unity,mongodb&theme=dark" height="36" alt="Tech Stack" />
+        <img src="https://ollama.com/public/icon-64x64.png" height="36" alt="Ollama" />
+      </p>
       <br /><br />
       <i>Not just an API wrapper — a complete product with routing, state, and polish.</i>
     </td>
