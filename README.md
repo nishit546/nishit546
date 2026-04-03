@@ -207,9 +207,9 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 
 <br />
 
-### 🎮 [Your Game Title Here](https://github.com/nishit546/your-unity-game-repo)
+### 🎮 [Sprite Flight](https://github.com/nishit546/Sprite-Flight.git)
 
-> A custom game experience built with the Unity Engine.
+> A custom game experience built with the Unity Engine. &nbsp; **[🕹️ Play it live here!](https://play.unity.com/en/games/685d4c42-1278-412e-a1ef-34175c15a926/sprite-flight-rocket-game)**
 
 <table>
   <tr>
