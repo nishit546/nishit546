@@ -37,9 +37,25 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 
 ## ⚙️ Tech Arsenal
 
+### 🎨 Frontend
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,nodejs,express,python,fastapi,c,cpp,cs,mysql,mongodb,git,github,vscode,postman,unity&theme=dark" alt="Tech Arsenal" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark" alt="Frontend" />
+</p>
+
+### 💻 Backend
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,c,cpp,cs&theme=dark" alt="Backend" />
   <img src="https://ollama.com/public/icon-64x64.png" height="48" alt="Ollama" />
+</p>
+
+### 🗄️ Database
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database" />
+</p>
+
+### 🛠️ Tools
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity&theme=dark" alt="Tools" />
 </p>
 
 ---
@@ -185,6 +201,33 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
       </p>
       <br /><br />
       <i>Not just an API wrapper — a complete product with routing, state, and polish.</i>
+    </td>
+  </tr>
+</table>
+
+<br />
+
+### 🎮 [Your Game Title Here](https://github.com/nishit546/your-unity-game-repo)
+
+> A custom game experience built with the Unity Engine.
+
+<table>
+  <tr>
+    <td>
+      <b>What it is:</b> An interactive game developed from scratch using Unity and C# showcasing game logic, physics, and gameplay mechanics.
+      <br /><br />
+      <b>Key Features:</b>
+      <ul>
+        <li>🕹️ Engaging interactive gameplay</li>
+        <li>🎨 Custom physics and responsive controls</li>
+        <li>🧩 Scripted entirely in C# with an object-oriented approach</li>
+      </ul>
+      <b>Stack:</b><br />
+      <p align="left">
+        <img src="https://skillicons.dev/icons?i=unity,cs&theme=dark" height="36" alt="Tech Stack" />
+      </p>
+      <br /><br />
+      <i>A demonstration of interactive application logic outside the web browser.</i>
     </td>
   </tr>
 </table>
