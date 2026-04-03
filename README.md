@@ -63,7 +63,7 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 ## 📊 Performance & Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=dark&hide_border=true&ring=22C55E&fire=EF4444&currStreakNum=22C55E&sideNums=A855F7&currStreakLabel=22C55E&sideLabels=A855F7&dates=8B949E" alt="Nishit's GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=dark&hide_border=true&ring=22C55E&fire=EF4444&currStreakNum=22C55E&sideNums=A855F7&currStreakLabel=22C55E&sideLabels=A855F7&dates=8B949E&v=1" alt="Nishit's GitHub Streak" />
 </div>
 <br />
 
