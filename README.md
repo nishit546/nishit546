@@ -27,6 +27,25 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 
 ---
 
+## 🌐 Let's Connect & Collaborate!
+
+<p align="center">
+  <a href="mailto:nishit.g.doshi.cg@gmail.com">
+    <img src="https://img.shields.io/badge/Let's_Talk!-Email_Me-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Resume-View_CV-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
+  </a>
+  <a href="https://x.com/Nishit1709">
+    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ## ⚙️ Tech Arsenal
 
 <div align="center">
@@ -85,15 +104,7 @@ At COS, we're engineering an AI-powered desktop experience focused on modern UI/
 
 
 
----
 
-## 🌐 Let's Connect & Collaborate!
-
-<p align="center">
-  <a href="mailto:nishit.g.doshi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk!-Email_Me-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:A855F7,100:EF4444&height=100&section=footer" />
