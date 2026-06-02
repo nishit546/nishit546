@@ -152,35 +152,54 @@
 </p>
 
 
-## <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/> My Tech Arsenal 
+## 📊 GitHub Analytics
 
-<a href="https://github.com/nishit546"> <div align=center>
-  
-  ![](https://github-trophies.vercel.app/?username=nishit546&theme=discord&no-frame=true&no-bg=true&margin-w=4)
-  </div>
-</a><br>
-   
-   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
-![](https://nirzak-streak-stats.vercel.app/?user=nishit546&theme=radical&hide_border=false)<br>
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=transparent&row=1&column=7&no-frame=true&margin-w=10&margin-h=10&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub Trophies" />
+</p>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishit546&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishit546&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishit546&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishit546&theme=radical)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishit546&theme=radical&utcOffset=5.3)
-<img src="https://github-contributor-stats.vercel.app/api?username=nishit546&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
-<br><br>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&count_private=true&theme=radical&hide_border=true" height="195" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=nishit546&theme=radical&hide_border=false" height="195" alt="Streak Stats" />
+</p>
 
- ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishit546&theme=dracula&custom_title=nishit546's%20Contribution%20Graph)  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
-<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
-<!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=radical&hide_border=true&card_width=400" height="195" alt="Most Used Languages" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&theme=dracula&custom_title=nishit546's%20Contribution%20Graph" height="195" alt="Contribution Graph" />
+</p>
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
+### 🐍 Contribution Snake
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+</p>
+
+### GitHub Profile Summary Cards
+
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishit546&theme=radical" height="150" alt="Profile Details" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishit546&theme=radical" height="150" alt="Repos Per Language" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishit546&theme=radical" height="150" alt="Most Commit Language" />
+</p>
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishit546&theme=radical" height="150" alt="Stats" />
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishit546&theme=radical&utcOffset=5.3" height="150" alt="Productive Time" />
+</p>
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=nishit546&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quotes Card" />
+  <img src="https://readme-jokes.vercel.app/api?theme=dracula" height="150" alt="Jokes Card" />
+</p>
+
+<p align="center">
+  <img src="http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat" alt="Code Time" />
+  <img src="http://img.shields.io/badge/Profile%20Views-25-blue?style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat" alt="Lines of Code" />
+</p>
 
 
 ## Side quests & sparks
@@ -215,40 +234,6 @@
 - ⚡ Practicing performance profiling on React + Node stacks.
 - 🧹 Keeping repos tidy with consistent formatting, linting, and tests.
 - 🌐 Looking to contribute to open-source tools that improve developer experience.
-
-## GitHub snapshot
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishit546&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=0f172a&border_color=e2e8f0" height="180" alt="stats" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=transparent&title_color=0ea5e9&text_color=0f172a&border_color=e2e8f0&langs_count=8" height="180" alt="top languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=nishit546&theme=transparent&border=e2e8f0&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" alt="streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&bg_color=ffffff&color=0ea5e9&line=0ea5e9&point=0f172a&area=true&hide_border=true" alt="activity graph" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=transparent&row=1&column=7&no-frame=true&margin-w=10&margin-h=10&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishit546&theme=transparent" alt="Profile Summary" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishit546&theme=transparent" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-in-detail?username=nishit546&theme=transparent" alt="Stats In Detail" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg"/>
-</p>
-
 
 ### Profile Views
 <table>
