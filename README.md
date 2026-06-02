@@ -1,111 +1,284 @@
+<!-- Profile README for nishit546 -->
+
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:A855F7,100:EF4444&height=200&section=header&text=Nishit%20Doshi&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20Student%20%7C%20Co-Founder%2C%20COS%20%7C%20Full-Stack%20Developer&descSize=16&descAlignY=55&animation=fadeIn" />
+  <img src="assets/Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+nishit546;Full-stack+developer+in+the+making;I+build+practical+and+polished+web+experiences" alt="Typing SVG" />
+  </a>
+</h1>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Open%20to%20collaborations-0ea5e9?style=for-the-badge&logo=handshake&logoColor=white" alt="collaboration" />
+  <img src="https://komarev.com/ghpvc/?username=nishit546&label=Profile%20views&color=0ea5e9&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/badge/Focus-React%20%7C%20Node%20%7C%20JavaScript-0f172a?style=for-the-badge&logo=target" alt="focus" />
+</p>
+
+
+
+<table>
+  <tr>
+    <td width="52%" valign="top">
+
+### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+
+- 🌱 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒄𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑵𝒐𝒅𝒆.𝒋𝒔
+- 🧭 𝑻𝒖𝒓𝒏𝒊𝒏𝒈 𝒗𝒂𝒈𝒖𝒆 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔 𝒊𝒏𝒕𝒐 𝒔𝒉𝒊𝒑𝒑𝒆𝒅 𝒖𝒔𝒆𝒓 𝒇𝒍𝒐𝒘𝒔
+- 🛠️ 𝑶𝒃𝒔𝒆𝒔𝒔𝒆𝒅 𝒘𝒊𝒕𝒉 𝑫𝑿: 𝒍𝒊𝒏𝒕𝒊𝒏𝒈, 𝒕𝒆𝒔𝒕𝒔, 𝒐𝒏𝒆-𝒄𝒍𝒊𝒄𝒌 𝒅𝒆𝒑𝒍𝒐𝒚𝒔
+- 📚 𝑫𝒆𝒆𝒑-𝒅𝒊𝒗𝒊𝒏𝒈 𝒑𝒆𝒓𝒇𝒐𝒓𝒎𝒂𝒏𝒄𝒆 𝒃𝒖𝒅𝒈𝒆𝒕𝒔 & 𝒕𝒆𝒔𝒕𝒊𝒏𝒈 𝒑𝒚𝒓𝒂𝒎𝒊𝒅𝒔
+- 🤝 𝑰 𝒔𝒉𝒊𝒑 𝒇𝒂𝒔𝒕𝒆𝒓 𝒘𝒊𝒕𝒉 𝒂 𝒕𝒆𝒂𝒎𝒎𝒂𝒕𝒆 — 𝒑𝒊𝒏𝒈 𝒎𝒆!
+
+### 🔗 Let's Connect
+
+<p align="center">
+  <a href="https://nishit546.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/nishit546/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true" target="_blank">
+    <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
+  </a>
+</p>
+
+   </td>
+    <td width="48%" align="center" valign="middle">
+      <img src="https://shorturl.at/odfzC" style="width:100%;max-width:380px;height:auto;" alt="About">
+      <br>
+      <img src="https://user-images.githubusercontent.com/74038190/212750455-0c4336d4-6473-4ce3-9d3a-5af8a4b7aa24.gif" style="width:100%;max-width:300px;" alt="neon grid" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+
+</div>
+<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<br>
+
+🎓 A curious student & passionate **Vibe Coding enthusiast** who loves building creative apps. <br> 
+💡 I believe C++ is the perfect language for beginners, and I want to **share its beauty** with the world.  
+🚀 Currently exploring new ideas, contributing to open source, and building my **C++ Beauty Suite**. <br>
+❓ Exploring ideas, building systems, and improving problem-solving skills
+🧠 Currently working on strengthening core concepts and writing cleaner, scalable code
+
+
+<br><br>
+<div align=center>
+  <table align="center">
+  <thead align="center">
+    <tr>
+      <td><b>👀 Profile Views</b></td>
+      <td><b>👤 Followers</b></td>
+      <td><b>🌟 Stars</b></td>
+      <td><b>✅ Awesome</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        
+  ![Visitors](https://api.visitorbadge.io/api/visitors?path=nishit546%2Fnishit546&label=Total%20Visitors&labelColor=%23000&countColor=%230A0209&style=flat-square)
+      </td>
+      <td>
+        <a href="https://github.com/nishit546">
+          <img src="https://img.shields.io/github/followers/nishit546?label=Followers&style=social" alt="GitHub Followers"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nishit546">
+          <img src="https://img.shields.io/github/stars/nishit546?label=Stars&style=social" alt="GitHub Stars"/>
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/nishit546">
+          <img src="https://awesome.re/badge.svg" alt="Awesome"/>
+        </a>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
+
+## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Tech I Reach For</h3>
+**Languages**
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-f7df1e?style=for-the-badge&logo=javascript&logoColor=000" />
+  <img src="https://img.shields.io/badge/C-00599c?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599c?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
+
+**Frontend**
+<p>
+  <img src="https://img.shields.io/badge/React-61dafb?style=for-the-badge&logo=react&logoColor=000" />
+  <img src="https://img.shields.io/badge/Vite-936cff?style=for-the-badge&logo=vite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tailwind-38bdf8?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redux-764abc?style=for-the-badge&logo=redux&logoColor=white" />
+</p>
+
+**Backend & Data**
+<p>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" />
+  <img src="https://img.shields.io/badge/MongoDB-47a248?style=for-the-badge&logo=mongodb&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479a1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/REST%20APIs-f97316?style=for-the-badge&logo=postman&logoColor=white" />
+</p>
+
+**Tools & Workflow**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Postman-ff6c37?style=for-the-badge&logo=postman&logoColor=white" />
+  <img src="https://img.shields.io/badge/npm-cb3837?style=for-the-badge&logo=npm&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1200&color=22C55E&center=true&vCenter=true&width=800&lines=Building+COS+%E2%80%94+Cognitive+Operating+System;Full-Stack+Developer+%7C+System+Thinker;Shipping+Products%2C+Not+Just+Code;Engineering+the+Future+of+Desktop+UX" alt="Typing Animation" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nishit546&label=Profile%20Views&color=22C55E&style=flat" alt="Profile Views" />
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
 
+## <img src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif" height="30" style="margin-right: 10px; vertical-align: middle;"/> My Tech Arsenal 
+
+<a href="https://github.com/nishit546"> <div align=center>
   
----
+  ![](https://github-trophies.vercel.app/?username=nishit546&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+  </div>
+</a><br>
+   
+   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nishit546&show_icons=true&count_private=true&theme=radical&hide_border=true)<br>
+![](https://nirzak-streak-stats.vercel.app/?user=nishit546&theme=radical&hide_border=false)<br>
 
-## 👨‍💻 About Me
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishit546&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishit546&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nishit546&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nishit546&theme=radical)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishit546&theme=radical&utcOffset=5.3)
+<img src="https://github-contributor-stats.vercel.app/api?username=nishit546&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo"><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=radical&hide_border=true&card_width=400" alt="Most Used Languages" />
+<br><br>
 
-I'm a **Computer Science Engineering** student and **Co-Founder of [COS (Cognitive Operating System)](https://github.com/nishit546)** — an intelligent desktop interface rethinking how humans interact with their machines. I build full-stack applications with a bias toward shipping real products, not side projects that collect dust.
+ ![My GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nishit546&theme=dracula&custom_title=nishit546's%20Contribution%20Graph)  
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)<br>
+<img src="https://readme-jokes.vercel.app/api?theme=dracula" alt="Jokes Card" align="right" width="300" height="180"/>
+<!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-91%20hrs%206%20mins-blue?style=flat)
 
-At COS, we're engineering an AI-powered desktop experience focused on modern UI/UX, real-time responsiveness, and meaningful productivity — not another chatbot wrapper.
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue?style=flat)
 
-- 🧠 **Building:** COS — Cognitive Operating System
-- 🔧 **Strengths:** Full-stack development, system-level UI design, rapid prototyping
-- 🎯 **Focus:** Bridging the gap between AI capabilities and intuitive desktop UX
-- 📍 **Based in:** Gujarat, India
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-86.07%20thousand%20lines%20of%20code-blue?style=flat)
 
----
 
-## 🌐 Let's Connect & Collaborate!
+## Side quests & sparks
+- 🎯 Rebuilding a personal design system with tokens + semantic color ramps.
+- 🎹 Generating lo-fi code-session loops with JS audio APIs.
+- 🕹️ Tiny game prototypes to keep vanilla JS muscles fresh.
+- 🌍 Always open to collabs: drop an issue or a DM.
 
 <p align="center">
-  <a href="mailto:nishit.g.doshi.cg@gmail.com">
-    <img src="https://img.shields.io/badge/Let's_Talk!-Email_Me-22C55E?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Portfolio-Visit_Website-A855F7?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Resume-View_CV-EF4444?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" />
-  </a>
-  <a href="https://x.com/Nishit1709">
-    <img src="https://img.shields.io/badge/X-Follow_Me-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
+  <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-29612d07ba1f.gif" width="220" alt="radar scan" />
 </p>
 
----
+## Momentum board
+- 🚀 **Launch-ready:** Polishing a clean deploy script + PR previews.
+- 🎬 **In progress:** Motion experiments (staggered cards, magnetic buttons).
+- 🧭 **Up next:** API observability starter kit for side projects.
+- 🧊 **Cool-down:** Reading “Designing Data-Intensive Applications”.
 
-## ⚙️ Tech Arsenal
+## Micro dashboards
+<p align="center">
+  <img src="https://progress-bar.dev/82/?title=frontend%20polish&width=180&color=0ea5e9" />
+  <img src="https://progress-bar.dev/71/?title=backend%20ops&width=180&color=22c55e" />
+  <img src="https://progress-bar.dev/64/?title=testing%20rig&width=180&color=f59e0b" />
+</p>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/215283981-13c3f2f7-75e8-4e7c-8f4b-bf9c0c8d9f9c.gif" width="320" alt="grid scan" />
+</p>
+
+## What I'm up to
+- 🧪 Building small projects to stress‑test ideas quickly.
+- ⚡ Practicing performance profiling on React + Node stacks.
+- 🧹 Keeping repos tidy with consistent formatting, linting, and tests.
+- 🌐 Looking to contribute to open-source tools that improve developer experience.
+
+## GitHub snapshot
+<p align="center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nishit546&show_icons=true&theme=transparent&title_color=0ea5e9&icon_color=0ea5e9&text_color=0f172a&border_color=e2e8f0" height="180" alt="stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nishit546&layout=compact&theme=transparent&title_color=0ea5e9&text_color=0f172a&border_color=e2e8f0&langs_count=8" height="180" alt="top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=nishit546&theme=transparent&border=e2e8f0&fire=0ea5e9&ring=0ea5e9&currStreakLabel=0ea5e9" alt="streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&bg_color=ffffff&color=0ea5e9&line=0ea5e9&point=0f172a&area=true&hide_border=true" alt="activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=transparent&row=1&column=7&no-frame=true&margin-w=10&margin-h=10&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub Trophies" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nishit546&theme=transparent" alt="Profile Summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nishit546&theme=transparent" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats-in-detail?username=nishit546&theme=transparent" alt="Stats In Detail" />
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg"/>
+</p>
+
+
+### Profile Views
+<table>
+  <tr>
+    <td>
+<img src="https://count.getloli.com/@nishit546?name=nishit546&theme=rule34&padding=7&offset=0&align=top&scale=1&pixelated=1&darkmode=1" width="500">
+    </td>
+  </tr>
+</table>
+</div>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
 
 <div align="center">
+  
+  ![mona-whisper](https://github.com/user-attachments/assets/79cb265a-94a9-4455-9ea8-56ea5fe249ed)<a href="https://git.io/typing-svg"> <img src="https://readme-typing-svg.demolab.com?font=Jacquard+12&size=40&pause=1000&color=F75C03&center=true&vCenter=true&width=700&height=60&lines=Don't+Forget+to+Follow!" alt="Follow nishit546" /></a>
+</div>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind&theme=dark" alt="Frontend" />
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
+</p>
 
-### 💻 Backend
-<br />
-<img src="https://skillicons.dev/icons?i=nodejs,express,python,fastapi,c,cpp,cs&theme=dark" alt="Backend" />
-<img src="https://ollama.com/public/icon-64x64.png" height="48" alt="Ollama" />
-
-### 🗄️ Database
-<br />
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark" alt="Database" />
-
-### 🛠️ Tools
-<br />
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,unity&theme=dark" alt="Tools" />
+<div align="center">
+  
+  ##### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> _Where creativity meets the beauty in code_ 
 
 </div>
 
----
+ <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=Thanks%20for%20visiting%20My%20Profile!&fontSize=20&fontColor=fff&animation=twinkling"/>
 
-## 🏆 LeetCode Stats
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Nishit1709?theme=dark&font=Baloo&ext=contest" />
-</p>
-
----
-
-## 📊 Performance & Stats
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nishit546&theme=dark&hide_border=true&ring=22C55E&fire=EF4444&currStreakNum=22C55E&sideNums=A855F7&currStreakLabel=22C55E&sideLabels=A855F7&dates=8B949E&v=1" alt="Nishit's GitHub Streak" />
-</div>
-<br />
-
----
-
-## 📈 GitHub Activity Graph
-
-<p align="center">
-   <img src="https://github-readme-activity-graph.vercel.app/graph?username=nishit546&bg_color=0D1117&color=22C55E&line=A855F7&point=22C55E&area_color=22C55E&area=true&hide_border=true" alt="Nishit's Activity Graph" />
-</p>
-
----
-
-## 👾 Pacman Contribution Graph
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishit546/nishit546/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishit546/nishit546/output/pacman-contribution-graph.svg">
-  <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/nishit546/nishit546/output/pacman-contribution-graph.svg" />
-</picture>
-
-
-
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:22C55E,50:A855F7,100:EF4444&height=100&section=footer" />
-</p>
+   ###### nishit546__________________________________________________________________________________________________© 2025 nishit546 – Crafted with ❤️
