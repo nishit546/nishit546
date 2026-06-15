@@ -29,7 +29,7 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://nishit546.netlify.app/" target="_blank">
+  <a href="https://doshinishit.in" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/nishit546/" target="_blank">
@@ -65,7 +65,7 @@
 
 🃏  Built Uno Card Game — Fully responsive web adaptation with intelligent AI bot opponents
 
-🌐  Portfolio → [nishit546.netlify.app](https://nishit546.netlify.app/)
+🌐  Portfolio → [doshinishit.in](https://doshinishit.in)
 
 📫  [nishit.g.doshi.cg@gmail.com](mailto:nishit.g.doshi.cg@gmail.com)
 
