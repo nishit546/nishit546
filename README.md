@@ -58,7 +58,7 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
-## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
+## 👨‍💻 About Me
 
 <img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 <br>
@@ -66,8 +66,38 @@
 🎓 A curious student & passionate **Vibe Coding enthusiast** who loves building creative apps. <br> 
 💡 I believe C++ is the perfect language for beginners, and I want to **share its beauty** with the world.  
 🚀 Currently exploring new ideas, contributing to open source, and building my **C++ Beauty Suite**. <br>
-❓ Exploring ideas, building systems, and improving problem-solving skills
-🧠 Currently working on strengthening core concepts and writing cleaner, scalable code
+❓ Exploring ideas, building systems, and improving problem-solving skills.
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🧠 <a href="https://github.com/nishit546/COS-AI">COS (Cognitive Operating System)</a></h4>
+      <p>An intelligent, context-aware desktop interface rethinking how humans interact with their machines. Built with OS-level LLM integrations, agentic task automation, and a sleek modern dashboard.</p>
+      <p><b>Tech:</b> Python, React, FastAPI, Ollama</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🚜 <a href="https://github.com/nishit546/farming">Farming Management System</a></h4>
+      <p>A comprehensive digital suite for modern agriculture. Optimizes crop scheduling, tracks real-time inventory, coordinates supply chains, and provides weather-informed analytics for farmers.</p>
+      <p><b>Tech:</b> Node.js, Express, MongoDB, EJS</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🚗 <a href="https://github.com/nishit546/SmartPark">SmartPark</a></h4>
+      <p>An end-to-end IoT parking ecosystem. Features real-time slot occupancy tracking, automated QR-based entry/exit, digital billing, and a live user dashboard to minimize city parking congestion.</p>
+      <p><b>Tech:</b> React, Node.js, Express, MySQL, IoT Sensors</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🃏 <a href="https://github.com/nishit546/JS-games">Uno Card Game</a></h4>
+      <p>A fully interactive digital rendition of the classic UNO card game. Built with smooth animations, intelligent AI bot opponents, custom card rules, and responsive state management.</p>
+      <p><b>Tech:</b> HTML5, CSS3, Vanilla JavaScript</p>
+    </td>
+  </tr>
+</table>
 
 
 <br><br>
