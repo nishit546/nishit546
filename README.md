@@ -1,7 +1,9 @@
 <!-- Profile README for nishit546 -->
 
 
-
+<p align="center">
+  <img src="assets/Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
+</p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
