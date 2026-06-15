@@ -23,7 +23,7 @@
   <tr>
     <td width="52%" valign="top">
 
-### <h2> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome! </h2>
+## <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="30" /> Hi, welcome!
 
 - 🌱 𝑩𝒖𝒊𝒍𝒅𝒊𝒏𝒈 𝒘𝒊𝒕𝒉 𝑹𝒆𝒂𝒄𝒕, 𝑱𝒂𝒗𝒂𝑺𝒄𝒓𝒊𝒑𝒕, 𝒂𝒏𝒅 𝑵𝒐𝒅𝒆.𝒋𝒔
 - 🧭 𝑻𝒖𝒓𝒏𝒊𝒏𝒈 𝒗𝒂𝒈𝒖𝒆 𝒓𝒆𝒒𝒖𝒊𝒓𝒆𝒎𝒆𝒏𝒕𝒔 𝒊𝒏𝒕𝒐 𝒔𝒉𝒊𝒑𝒑𝒆𝒅 𝒖𝒔𝒆𝒓 𝒇𝒍𝒐𝒘𝒔
@@ -60,8 +60,7 @@
 
 ## <img src="https://raw.githubusercontent.com/ItsAnunesS/ItsAnunesS/master/src/img/parrots/flags/indiaparrot.gif" width="30" height="40"/> Frontend & Web Dev <img height="40" alt="Anshuman Jadiya" src="https://raw.githubusercontent.com/innng/innng/master/assets/kyubey.gif"/>
 
-</div>
-<img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200"'>
+<img align="right" src="https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="200">
 <br>
 
 🎓 A curious student & passionate **Vibe Coding enthusiast** who loves building creative apps. <br> 
@@ -72,7 +71,7 @@
 
 
 <br><br>
-<div align=center>
+<div align="center">
   <table align="center">
   <thead align="center">
     <tr>
@@ -106,12 +105,13 @@
     </tr>
   </tbody>
 </table>
+</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
 </p>
 
-## <h3> <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" />Tech I Reach For</h3>
+## <img src="https://emojis.slackmojis.com/emojis/images/1621024394/39092/cat-roll.gif?1621024394" width="28" /> Tech I Reach For
 **Languages**
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white" />
@@ -171,7 +171,11 @@
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg">
+    <img alt="Contribution Snake" src="https://raw.githubusercontent.com/nishit546/nishit546/output/github-contribution-grid-snake.svg" />
+  </picture>
 </p>
 
 ### GitHub Profile Summary Cards
@@ -243,7 +247,6 @@
     </td>
   </tr>
 </table>
-</div>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%" alt="divider">
