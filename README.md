@@ -30,10 +30,10 @@
 ### 🔗 Let's Connect
 
 <p align="center">
-  <a href="https://doshitnishit.in/" target="_blank">
+  <a href="https://doshinishit.in/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <a href="[https://www.linkedin.com/in/nishit546/](https://www.linkedin.com/in/nishit-doshi-423686390/)" target="_blank">
+  <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://docs.google.com/document/d/1BLxpwyhQRmfOrfPq7UMc_XUtYadRSPRP/edit?usp=sharing&ouid=100913256563492753565&rtpof=true&sd=true" target="_blank">
