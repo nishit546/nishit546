@@ -36,7 +36,7 @@
   <a href="https://www.linkedin.com/in/nishit-doshi-423686390/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://drive.google.com/drive/u/0/home" target="_blank">
+  <a href="https://drive.google.com/file/d/1FZ39_P0U6GryNUW6lt8WQbEyzHyD1Xfs/view?usp=sharing" target="_blank">
     <img src="https://img.shields.io/badge/Resume-2563eb?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" />
   </a>
 </p>
