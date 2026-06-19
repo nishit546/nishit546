@@ -151,10 +151,6 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nishit546&theme=transparent&row=1&column=7&no-frame=true&margin-w=10&margin-h=10&title_color=0ea5e9&icon_color=0ea5e9" alt="GitHub Trophies" />
-</p>
-
-<p align="center">
   <img src="https://samdev-pulse.vercel.app/api/profile?username=nishit546&theme=midnight-sunset&leetcode=Nishit1709" alt="samdev-pulse" />
 </p>
 
@@ -186,9 +182,6 @@
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nishit546&theme=radical&utcOffset=5.3" height="150" alt="Productive Time" />
 </p>
 
-<p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=nishit546&limit=5&theme=radical&combine_all_yearly_contributions=true" alt="Top Contributed Repo" />
-</p>
 
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" height="150" alt="Quotes Card" />
@@ -218,12 +211,6 @@
 - 🧭 **Up next:** API observability starter kit for side projects.
 - 🧊 **Cool-down:** Reading “Designing Data-Intensive Applications”.
 
-## Micro dashboards
-<p align="center">
-  <img src="https://progress-bar.dev/82/?title=frontend%20polish&width=180&color=0ea5e9" />
-  <img src="https://progress-bar.dev/71/?title=backend%20ops&width=180&color=22c55e" />
-  <img src="https://progress-bar.dev/64/?title=testing%20rig&width=180&color=f59e0b" />
-</p>
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/215283981-13c3f2f7-75e8-4e7c-8f4b-bf9c0c8d9f9c.gif" width="320" alt="grid scan" />
