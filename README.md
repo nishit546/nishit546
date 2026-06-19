@@ -1,10 +1,6 @@
 <!-- Profile README for nishit546 -->
 
 
-<p align="center">
-  <img src="assets/Gemini_Generated_Image_av7676av7676av76 (1).png" alt="Profile Banner" width="100%" />
-</p>
-
 <h1 align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=26&pause=1200&color=0EA5E9&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B%2C+I'm+nishit546;Full-stack+developer+in+the+making;I+build+practical+and+polished+web+experiences" alt="Typing SVG" />
