@@ -151,7 +151,7 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://samdev-pulse.vercel.app/api/profile?username=nishit546&theme=midnight-sunset&leetcode=Nishit1709" alt="samdev-pulse" />
+  <img src="https://samdev-pulse.vercel.app/api/profile?username=nishit546&theme=midnight-sunset&leetcode=Nishit1709&codeforces=Nishit1709&align=center" />
 </p>
 
 <p align="center">
